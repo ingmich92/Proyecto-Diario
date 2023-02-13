@@ -1,0 +1,1 @@
+"C:\Users\Ing Michel\AppData\Local\Programs\Python\Python311\python.exe" "C:\Proyecto Diario\ProyectoDiario.py"
