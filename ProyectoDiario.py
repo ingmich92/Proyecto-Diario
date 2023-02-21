@@ -558,7 +558,7 @@ sesion_smtp = smtplib.SMTP('smtp.gmail.com', 587)
 sesion_smtp.starttls()
 
 # Iniciamos sesión en el servidor
-sesion_smtp.login('cjuarez@creze.com','vale24rg4l$') #Actualizar a tus contraseñas
+sesion_smtp.login('cjuarez@creze.com','#&*iqMVQ236k#I3b') #Actualizar a tus contraseñas
 
 # Convertimos el objeto mensaje a texto
 texto = mensaje.as_string()
